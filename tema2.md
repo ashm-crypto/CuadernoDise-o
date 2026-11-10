@@ -1,6 +1,6 @@
 [← Volver al Índice Principal](./README.md)
 
-# Álgebra de Boole y formas canónicas
+# Tema 2 · Álgebra de Boole y formas canónicas
 
 ## Postulados y dualidad
 
