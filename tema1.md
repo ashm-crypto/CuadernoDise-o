@@ -1,6 +1,6 @@
 [← Volver al Índice Principal](./Unidad1.md)
 
-# Sistemas numéricos, códigos y compuertas lógicas
+# Tema 1 · Sistemas numéricos, códigos y compuertas lógicas
 
 ## Representación binaria
 
