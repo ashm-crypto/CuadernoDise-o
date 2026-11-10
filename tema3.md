@@ -63,4 +63,4 @@ Ojo: m3 va antes que m2.
 - SOP agrupa los 1; POS agrupa los 0 y se lee invertido.
 - Primos esenciales primero.
 
-[← Volver al Índice Principal](./README.md)
+[Seguir al siguiente tema ->](./tema4.md)
