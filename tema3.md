@@ -21,7 +21,7 @@ A \ BC | 00 01 11 10      AB \ CD | 00 01 11 10
                             10    |  8  9 11 10
 ```
 
-Ojo: m3 va antes que m2.
+m3 va antes que m2.
 
 ## Reglas para agrupar
 
@@ -63,4 +63,8 @@ Ojo: m3 va antes que m2.
 - SOP agrupa los 1; POS agrupa los 0 y se lee invertido.
 - Primos esenciales primero.
 
-[Seguir al siguiente tema ->](./tema4.md)
+[Seguir al tema 4 →](./tema4.md)
+<br>
+<br>
+[← Volver al Índice Principal](./Unidad1.md)
+
