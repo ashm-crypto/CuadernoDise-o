@@ -2,12 +2,6 @@
 
 # Álgebra de Boole y formas canónicas
 
-## Circuito = expresión
-
-- Cable = variable · AND = producto `·` · OR = suma `+` · NOT = complemento `'`
-- **Precedencia:** NOT → AND → OR.
-- Ejemplo: `Y = A·B + C'`
-
 ## Postulados y dualidad
 
 | Postulado | Forma OR | Forma AND (dual) |
@@ -66,9 +60,8 @@ Procedimiento: pares adyacentes (`XY + XY' = X`) → duplicar términos si hace 
 - Ejemplo: `A + A'B + AB'C = A + B`.
 - El álgebra **no garantiza el mínimo**; por eso se usan los mapas de Karnaugh.
 
-## Ideas para recordar
+[Seguir al tema 3 →](./tema3.md)
+<br>
+<br>
+[← Volver al Índice Principal](./Unidad1.md)
 
-- Lo que simplificas en papel lo ahorras en hardware.
-- Dos expresiones son equivalentes si y solo si tienen la misma tabla de verdad.
-
-[Seguir al siguiente tema ->](./tema3.md)
