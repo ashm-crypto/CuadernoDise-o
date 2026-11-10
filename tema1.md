@@ -1,17 +1,18 @@
 [← Volver al Índice Principal](./README.md)
 
-# Tema 1 · Sistemas numéricos, códigos y compuertas lógicas
+# Sistemas numéricos, códigos y compuertas lógicas
 
 ## Representación binaria
 
 - El computador usa 0 y 1 porque un transistor es un interruptor controlado por voltaje: con dos estados es fácil distinguirlos aunque haya ruido.
-- Un «1» es un **rango** de voltaje, no un valor exacto. Entre 0,8 V y 2,0 V (familia 74LS) está la **zona indefinida**; una entrada sin conectar suele caer ahí.
-- **Margen de ruido:** margen alto = 2,7 − 2,0 = 0,7 V · margen bajo = 0,8 − 0,5 = 0,3 V.
+- Un «1» es un rango de voltaje, no un valor exacto. Entre 0,8 V y 2,0 V (familia 74LS) está la zona indefinida; una entrada sin conectar suele caer ahí.
+- Margen de ruido: margen alto = 0,7 V · margen bajo = 0,3 V.
 
 ## Sistemas numéricos
 
 - **Posicional:** cada posición vale una potencia de la base.
-- **Bit** = dígito binario · **Byte** = 8 bits.
+- **Bit** = dígito binario.
+- **Byte** = 8 bits.
 - Potencias de 2: `128 · 64 · 32 · 16 · 8 · 4 · 2 · 1`
 - **Decimal → binario:** dividir entre 2 y leer los restos de abajo hacia arriba. `25 = 11001₂`
 - **Hexadecimal:** grupos de 4 bits desde la derecha. `10011101₂ = 9D₁₆` (A=10 … F=15)
@@ -26,8 +27,8 @@
 - Bit izquierdo 0 = positivo, 1 = negativo.
 - **Obtener el negativo:** invertir los bits y sumar 1. `3 = 0011 → 1100 → 1101 = −3`
 - **Rango:** 4 bits: −8 a +7 · 8 bits: −128 a +127.
-- **Restar = sumar el negativo:** `5 − 3 = 0101 + 1101 = 1 0010 → 0010 = 2` (el bit que sobra se descarta). No hace falta un circuito restador.
-- **Desbordamiento:** el resultado no cabe en los bits. `0111 + 0001 = 1000 → −8` ✗ (dos positivos dan un negativo).
+- **Restar** = sumar el negativo: `5 − 3 = 0101 + 1101 = 1 0010 → 0010 = 2` (el bit que sobra se descarta). No hace falta un circuito restador.
+- **Desbordamiento:** el resultado no cabe en los bits. `0111 + 0001 = 1000 → −8` (dos positivos dan un negativo).
 
 ## Códigos
 
