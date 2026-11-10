@@ -1,7 +1,5 @@
+[Regresar al inicio](index.md)
 # Diseño de Circuitos · Unidad 1
-
-**Lógica combinacional con diseño clásico**
-Universidad Nacional de Loja · Carrera de Computación · 2.º ciclo
 
 ## Introducción
 
