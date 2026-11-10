@@ -72,4 +72,4 @@ La ALU combina sumador/restador + comparador + AND/OR/XOR + multiplexor.
 | Resta | M = 1: XOR invierte B y Cin = 1 |
 | Overflow | V = C3 ⊕ C4, no Cout |
 
-[← Volver al Índice Principal](./README.md)
+[Seguir al siguiente tema ->](./tema6.md)
