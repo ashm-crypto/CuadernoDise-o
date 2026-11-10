@@ -61,4 +61,8 @@
 - Código `SN 74 LS 08 N`: fabricante · rango comercial · familia (LS = TTL, HC = CMOS) · función · encapsulado.
 - El 74HC08 es la versión CMOS: misma función y pines.
 
-[Seguir al siguiente tema ->](./tema2.md)
+[Seguir al tema 2 →](./tema2.md)
+<br>
+<br>
+[← Volver al Índice Principal](./Unidad1.md)
+
