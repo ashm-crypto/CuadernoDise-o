@@ -1,6 +1,6 @@
 [← Volver al Índice Principal](./README.md)
 
-# Tema 2 · Álgebra de Boole y formas canónicas
+# Álgebra de Boole y formas canónicas
 
 ## Circuito = expresión
 
