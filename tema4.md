@@ -49,9 +49,8 @@
 
 El ahorro vino de las **X**; la NAND no agrega chips y deja una sola familia en el inventario.
 
-## Ideas para recordar
+[Seguir al tema 4.1 →](./tema5.md)
+<br>
+<br>
+[← Volver al Índice Principal](./Unidad1.md)
 
-- El mínimo algebraico no siempre es el más barato: se compara en literales y en chips.
-- SOP → NAND-NAND; POS → NOR-NOR.
-
-[Seguir al siguiente tema ->](./tema5.md)
