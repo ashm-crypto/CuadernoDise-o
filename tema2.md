@@ -71,4 +71,4 @@ Procedimiento: pares adyacentes (`XY + XY' = X`) → duplicar términos si hace 
 - Lo que simplificas en papel lo ahorras en hardware.
 - Dos expresiones son equivalentes si y solo si tienen la misma tabla de verdad.
 
-[← Volver al Índice Principal](./README.md)
+[Seguir al siguiente tema ->](./tema3.md)
