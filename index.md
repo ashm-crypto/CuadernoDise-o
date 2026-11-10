@@ -46,3 +46,7 @@ ___
 ## [UNIDAD 1](Unidad1.md)
 ## [UNIDAD 2](Unidad2.md)
 ## [UNIDAD 3](Unidad3.md)
+___
+
+## Declaración de IA
+Se utilizó Claude, como apoyo para organizar mi repositorio de estudio de Diseño de Circuitos. La herramienta me ayudó a armar el índice del repositorio y a darle formato a las tablas y fórmulas. 
