@@ -1,4 +1,4 @@
-[← Volver al Índice Principal](./README.md)
+[← Volver al Índice Principal](./Unidad1.md)
 
 # Tema 2 · Álgebra de Boole y formas canónicas
 
