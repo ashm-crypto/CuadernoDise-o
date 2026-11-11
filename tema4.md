@@ -49,7 +49,7 @@
 
 El ahorro vino de las **X**; la NAND no agrega chips y deja una sola familia en el inventario.
 
-[Seguir al tema 4.1 →](./tema5.md)
+[Seguir al tema 5 →](./tema5.md)
 <br>
 <br>
 [← Volver al Índice Principal](./Unidad1.md)
