@@ -1,6 +1,6 @@
 [← Volver al Índice Principal](./Unidad1.md)
 
-# Tema 4.1 · Circuitos aritméticos
+# Tema 5 · Circuitos aritméticos
 
 ## Sumar un bit
 
